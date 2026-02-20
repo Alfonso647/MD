@@ -1,6 +1,13 @@
-Name,Age,City
-Alice,25,New York
-Bob,30,Los Angeles
-Charlie,35,Chicago
-David,40,Houston
-Emily,45,Phoenix
+ID,Nombre,Tipo,Distancia_UA,Radio_km,Orbita_a,Conexiones
+1,Sol,Estrella,0.0,696340,Centro,"2,3,4,5,6,7,8,9"
+2,Mercurio,Planeta,0.39,2439,Sol,1
+3,Venus,Planeta,0.72,6051,Sol,1
+4,Tierra,Planeta,1.0,6371,Sol,"1,10"
+5,Marte,Planeta,1.52,3389,Sol,1
+6,Júpiter,Planeta,5.2,69911,Sol,"1,11"
+7,Saturno,Planeta,9.58,58232,Sol,"1,12"
+8,Urano,Planeta,19.22,25362,Sol,1
+9,Neptuno,Planeta,30.05,24622,Sol,1
+10,Luna,Satélite,0.0026,1737,Tierra,4
+11,Europa,Satélite,5.2,1560,Júpiter,6
+12,Titán,Satélite,9.58,2575,Saturno,7
